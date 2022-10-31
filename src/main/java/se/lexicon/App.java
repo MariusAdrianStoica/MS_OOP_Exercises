@@ -36,23 +36,34 @@ public class App
                 case 7: //Period
                     Time_Exercises.ex7();
                     break;
-                case 8: // Find full name
+                case 8: // Period add
+                    Time_Exercises.ex8();
+                    break;
+                case 9: // LocalTime
+                    Time_Exercises.ex9();
+                    break;
+                case 10: // Nano seconds
+                    Time_Exercises.ex10();
+                    break;
+                case 11: // Random Time
+                    Time_Exercises.ex11();
+                    break;
+                case 12: // Local Time format
+                    Time_Exercises.ex12();
+                    break;
+                case 13: // Local Date Time
+                    Time_Exercises.ex13();
+                    break;
+                case 14: // DateTime Formatter
+                    Time_Exercises.ex14();
+                    break;
+                case 15: // Current DateTime
+                   Time_Exercises.ex15();
+                    break;
+                case 16: // LocalDate && LocalTime
+                    Time_Exercises.ex16();
+                    break;
 
-                    /*System.out.println("Enter a Name to find: ");
-                    Scanner sc8= new Scanner(System.in);
-                    fullName = sc8.nextLine();
-                    if (NameRepository.find(fullName) == null) {
-                        System.out.println("Error : no match! ");
-                        System.out.print(NameRepository.find(fullName)+" ");
-                        System.out.println(" Name was not find");
-                    }else {
-                        System.out.println(NameRepository.find(fullName)+"exists in the array");
-                        System.out.println(" Find OP Done");
-                    }*/
-                    break;
-                case 9: // display
-                    //System.out.println(Arrays.toString(NameRepository.findAll()));
-                    break;
                 case 0:
                     System.out.println(" Have a good day! ");
                     System.exit(0);

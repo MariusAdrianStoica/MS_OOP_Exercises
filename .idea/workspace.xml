@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30cba03c-b937-48e0-9224-bc329f43162c" name="Changes" comment="">
+    <list default="true" id="30cba03c-b937-48e0-9224-bc329f43162c" name="Changes" comment="ex TimeDate 1-8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Time_Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Time_Exercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Gts607VqFahE4KztyzZxdbFoVa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,6 +52,13 @@
       <option name="presentableId" value="Default" />
       <updated>1667219039815</updated>
     </task>
+    <task id="LOCAL−00001" summary="ex TimeDate 1-8">
+      <created>1667233710029</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1667233710029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex TimeDate 1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex TimeDate 1-8" />
   </component>
 </project>
