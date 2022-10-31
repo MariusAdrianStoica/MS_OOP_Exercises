@@ -168,7 +168,7 @@ public class Time_Exercises {
         Create a LocalDateTime with the date and time components as:
         date: 2018-04-05, time: 10.00*/
 
-        LocalDateTime localDateTime = LocalDateTime.of(2018,04,05,10,00);
+        LocalDateTime localDateTime = LocalDateTime.of(2018,4,5,10,0);
         System.out.println("Local DateTime is : " + localDateTime);
     }
     public static void ex14(){
@@ -176,7 +176,7 @@ public class Time_Exercises {
         Using DateTimeFormatter format the LocalDateTime object from exercise 11 to a String
         that should look tile this: torsdag 5 april 10:00*/
 
-        LocalDateTime localDateTime = LocalDateTime.of(2018,04,05,10,00);
+        LocalDateTime localDateTime = LocalDateTime.of(2018,4,5,10,0);
 
         System.out.println("Local DateTime format is : " + localDateTime.format(DateTimeFormatter.ofPattern("eeee d MMMM H:mm")));
 
